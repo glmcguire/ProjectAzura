@@ -9,13 +9,13 @@
 	<artifactId>ProjectAzura_Frontend</artifactId>
 	<name>ProjectAzura_Frontend</name>
 	
-	<dependencies>
+	<!-- <dependencies>
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-zuul</artifactId>
 			<version>1.0.6.RELEASE</version>
 		</dependency>
-	</dependencies>
+	</dependencies> -->
 
 	<build>
 		<plugins>
